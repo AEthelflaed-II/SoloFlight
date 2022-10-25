@@ -42,3 +42,12 @@ def myfunc():
   x = "fantastic"
  
  #Data Types in Python are: ["int", "str", "float", "list", "tuple", "dict", "bool"]
+
+#Data types:
+
+x = {"data type" : "dict", "tuple" : "uses parenthesis, unchanged order", "list" : "uses brackets",}
+print(type(x))
+
+dict
+
+#fin 
