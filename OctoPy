@@ -1,1 +1,15 @@
-print('Hello Python World')
+print("Hello Python World")
+#hash to comment: Python 101
+
+#This is a comment.
+
+#the ff is the use of proper indention:
+
+if 5 > 2:
+  print("Five is greater than two!")
+  
+"""
+This is a comment
+written in 
+more that just one line
+"""
